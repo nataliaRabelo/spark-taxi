@@ -1,0 +1,76 @@
+Ganho medio geral no ano por milha: 3.64$ Com taxa de CC: 3.67$.
+
+Id Agencia 6 Total de viagens: 59601 Ganho medio: 46.8$ Ganho medio com taxa CC: 46.8$
+Id Agencia 1 Total de viagens: 11271061 Ganho medio: 20.9$ Ganho medio com taxa CC: 21.13$
+Id Agencia 2 Total de viagens: 28325293 Ganho medio: 21.92$ Ganho medio com taxa CC: 22.15$
+Id Agencia 5 Total de viagens: 143 Ganho medio: 69.76$ Ganho medio com taxa CC: 69.76$
+
+Ganho medio por milha de cada agencia separados por mes de ocorrencia.
+Janeiro
+Id agencia: 2 Ganho medio por milha: 2.98$ Ganho medio por milha com CC: 3.01$ Distancia total percorrida: 10975038.979999885
+Id agencia: 1 Ganho medio por milha: 6.45$ Ganho medio por milha com CC: 6.51$ Distancia total percorrida: 2217293.799999965
+Id agencia: 6 Ganho medio por milha: 4.62$ Ganho medio por milha com CC: 4.62$ Distancia total percorrida: 45918.11000000012
+Id agencia: 5 Ganho medio por milha: 4.02$ Ganho medio por milha com CC: 4.02$ Distancia total percorrida: 536.7999999999998
+
+Fevereiro
+Id agencia: 2 Ganho medio por milha: 2.76$ Ganho medio por milha com CC: 2.79$ Distancia total percorrida: 14757850.239999127
+Id agencia: 6 Ganho medio por milha: 5.05$ Ganho medio por milha com CC: 5.05$ Distancia total percorrida: 56655.17999999985
+Id agencia: 5 Ganho medio por milha: 4.31$ Ganho medio por milha com CC: 4.31$ Distancia total percorrida: 425.84999999999997
+Id agencia: 1 Ganho medio por milha: 6.51$ Ganho medio por milha com CC: 6.58$ Distancia total percorrida: 2621422.400000039
+
+Março
+Id agencia: 6 Ganho medio por milha: 5.42$ Ganho medio por milha com CC: 5.42$ Distancia total percorrida: 69378.3000000001
+Id agencia: 5 Ganho medio por milha: 4.68$ Ganho medio por milha com CC: 4.68$ Distancia total percorrida: 163.0
+Id agencia: 1 Ganho medio por milha: 6.38$ Ganho medio por milha com CC: 6.45$ Distancia total percorrida: 3359931.899999947
+Id agencia: 2 Ganho medio por milha: 3.03$ Ganho medio por milha com CC: 3.06$ Distancia total percorrida: 17467663.899998903
+
+Abril
+Id agencia: 6 Ganho medio por milha: 5.51$ Ganho medio por milha com CC: 5.51$ Distancia total percorrida: 65047.070000000036
+Id agencia: 1 Ganho medio por milha: 6.31$ Ganho medio por milha com CC: 6.37$ Distancia total percorrida: 3406028.0000003064
+Id agencia: 2 Ganho medio por milha: 3.21$ Ganho medio por milha com CC: 3.25$ Distancia total percorrida: 16934830.409998976
+Id agencia: 5 Ganho medio por milha: 5.26$ Ganho medio por milha com CC: 5.26$ Distancia total percorrida: 305.21
+
+Maio
+Id agencia: 2 Ganho medio por milha: 2.7$ Ganho medio por milha com CC: 2.73$ Distancia total percorrida: 21011787.819998827
+Id agencia: 6 Ganho medio por milha: 5.58$ Ganho medio por milha com CC: 5.58$ Distancia total percorrida: 54056.22000000019
+Id agencia: 5 Ganho medio por milha: 4.76$ Ganho medio por milha com CC: 4.76$ Distancia total percorrida: 196.00000000000003
+Id agencia: 1 Ganho medio por milha: 6.28$ Ganho medio por milha com CC: 6.35$ Distancia total percorrida: 3541858.600000006
+
+Junho
+Id agencia: 1 Ganho medio por milha: 6.45$ Ganho medio por milha com CC: 6.52$ Distancia total percorrida: 3462086.3000001456
+Id agencia: 2 Ganho medio por milha: 3.16$ Ganho medio por milha com CC: 3.2$ Distancia total percorrida: 17717867.859999303
+Id agencia: 6 Ganho medio por milha: 5.53$ Ganho medio por milha com CC: 5.53$ Distancia total percorrida: 53142.380000000085
+Id agencia: 5 Ganho medio por milha: 5.77$ Ganho medio por milha com CC: 5.77$ Distancia total percorrida: 98.66999999999999
+
+Julho
+Id agencia: 6 Ganho medio por milha: 5.2$ Ganho medio por milha com CC: 5.2$ Distancia total percorrida: 49069.13000000007
+Id agencia: 1 Ganho medio por milha: 6.15$ Ganho medio por milha com CC: 6.21$ Distancia total percorrida: 3065998.7000000644
+Id agencia: 2 Ganho medio por milha: 3.2$ Ganho medio por milha com CC: 3.23$ Distancia total percorrida: 15304887.30999835
+Id agencia: 5 Ganho medio por milha: 6.09$ Ganho medio por milha com CC: 6.09$ Distancia total percorrida: 134.12
+
+Agosto
+Id agencia: 2 Ganho medio por milha: 3.3$ Ganho medio por milha com CC: 3.33$ Distancia total percorrida: 14963989.409998924
+Id agencia: 6 Ganho medio por milha: 5.13$ Ganho medio por milha com CC: 5.13$ Distancia total percorrida: 33056.67999999996
+Id agencia: 1 Ganho medio por milha: 6.1$ Ganho medio por milha com CC: 6.16$ Distancia total percorrida: 3022599.900000012
+Id agencia: 5 Ganho medio por milha: 5.44$ Ganho medio por milha com CC: 5.44$ Distancia total percorrida: 209.98999999999998
+
+Setembro
+Id agencia: 2 Ganho medio por milha: 2.67$ Ganho medio por milha com CC: 2.7$ Distancia total percorrida: 19547779.05999929
+Id agencia: 5 Ganho medio por milha: 3.9$ Ganho medio por milha com CC: 3.9$ Distancia total percorrida: 38.59
+Id agencia: 1 Ganho medio por milha: 6.44$ Ganho medio por milha com CC: 6.51$ Distancia total percorrida: 3085062.299999963
+
+Outubro
+Id agencia: 6 Ganho medio por milha: 5.29$ Ganho medio por milha com CC: 5.29$ Distancia total percorrida: 52750.41000000005
+Id agencia: 1 Ganho medio por milha: 6.47$ Ganho medio por milha com CC: 6.54$ Distancia total percorrida: 3445903.8000000664
+Id agencia: 2 Ganho medio por milha: 3.07$ Ganho medio por milha com CC: 3.1$ Distancia total percorrida: 19317903.799999237
+
+Novembro
+Id agencia: 1 Ganho medio por milha: 6.59$ Ganho medio por milha com CC: 6.66$ Distancia total percorrida: 2369939.3000000613
+Id agencia: 2 Ganho medio por milha: 3.08$ Ganho medio por milha com CC: 3.11$ Distancia total percorrida: 18180608.71999873
+Id agencia: 6 Ganho medio por milha: 5.45$ Ganho medio por milha com CC: 5.45$ Distancia total percorrida: 43211.42999999995
+
+Dezembro
+Id agencia: 2 Ganho medio por milha: 4.75$ Ganho medio por milha com CC: 4.8$ Distancia total percorrida: 13001570.049999198
+Id agencia: 6 Ganho medio por milha: 5.1$ Ganho medio por milha com CC: 5.1$ Distancia total percorrida: 4301.000000000001
+Id agencia: 1 Ganho medio por milha: 7.2$ Ganho medio por milha com CC: 7.28$ Distancia total percorrida: 3017912.8000000594
+

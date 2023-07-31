@@ -1,0 +1,85 @@
+Regioes de destino por mes ranqueadas de acordo com a frequencia.
+Janeiro
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 123465
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 106359
+3. Regiao: Manhattan Lenox Hill West Yellow Zone Frequencia: 78336
+4. Regiao: Manhattan Upper West Side South Yellow Zone Frequencia: 75048
+5. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 74709
+
+Fevereiro
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 139057
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 124627
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 99171
+4. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 88869
+5. Regiao: Manhattan Upper West Side South Yellow Zone Frequencia: 88392
+
+Março
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 157814
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 147542
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 134937
+4. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 111093
+5. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 106035
+
+Abril
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 154956
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 148957
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 131115
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 109231
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 105308
+
+Maio
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 155668
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 150529
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 130903
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 106315
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 102749
+
+Junho
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 150210
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 145445
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 132781
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 107611
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 105770
+
+Julho
+1. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 119084
+2. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 112542
+3. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 111345
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 104718
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 98122
+
+Agosto
+1. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 120324
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 114958
+3. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 113469
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 100010
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 97937
+
+Setembro
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 132311
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 127406
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 114829
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 94777
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 91578
+
+Outubro
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 160499
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 154419
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 135561
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 106898
+5. Regiao: Manhattan Murray Hill Yellow Zone Frequencia: 104230
+
+Novembro
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 147907
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 141895
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 127412
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 97323
+5. Regiao: Manhattan Lincoln Square East Yellow Zone Frequencia: 93013
+
+Dezembro
+1. Regiao: Manhattan Upper East Side North Yellow Zone Frequencia: 147375
+2. Regiao: Manhattan Upper East Side South Yellow Zone Frequencia: 139580
+3. Regiao: Manhattan Midtown Center Yellow Zone Frequencia: 127026
+4. Regiao: Manhattan Times Sq/Theatre District Yellow Zone Frequencia: 100218
+5. Regiao: Manhattan Lincoln Square East Yellow Zone Frequencia: 97581
+
